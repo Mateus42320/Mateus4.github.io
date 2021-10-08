@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(14, 12, 12);
+}
+.col{
+    background-color: rgb(21, 132, 206);
+}
+.container{
+    margin-top:20px;
+    border-radius: 15px;
+}
